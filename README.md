@@ -1,2 +1,3 @@
 # Rochambeau_Game
-Simple Rochambeau Game
+
+A simple rochambeau game I made in C++. Enjoy playing against the Computer!
