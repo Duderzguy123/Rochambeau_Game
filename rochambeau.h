@@ -1,5 +1,3 @@
-// CS 112 Fall 2023 - Assignment 01
-// Jeremy Shueh
 
 #ifndef ROCHAMBEAU_H
 #define ROCHAMBEAU_H
