@@ -1,7 +1,3 @@
-// CS 112 Fall 2023 - Assignment 01
-// Jeremy Shueh
-
-
 #include <cstdlib>
 #include <iostream>
 #include <string>
